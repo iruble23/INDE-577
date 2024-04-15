@@ -11,10 +11,10 @@ Termites play a crucial role in the ecosystem as decomposers. They break down to
 ## Repository Structure
 
 The repository is organized as follows:
-- [Supervised Learning\perceptron\perceptron.ipynb](Perceptron/): Implementation of the perceptron algorithm for binary classification of termite discovery.
-- [Supervised Learning\logistic_regression\logistic_regression.ipynb](Logistic_Regression/): Application of logistic regression to predict termite presence.
-- [Supervised Learning\linear_regression\linear_regression.ipynb](Linear_Regression/): Uses linear regression to model the relationship between environmental factors and wood decay.
-- [Supervised Learning\gradient_descent\gradient_descent.ipynb](Gradient_Descent/): Demonstrates the use of gradient descent in optimizing logistic regression models.
+- [Perceptron](Supervised_Learning/perceptron/perceptron.ipynb): Implementation of the perceptron algorithm for binary classification of termite discovery.
+- [Logistic Regression](Supervised_Learning/logistic_regression/logistic_regression.ipynb): Application of logistic regression to predict termite presence.
+- [Linear Regression](Supervised_Learning/linear_regression/linear_regression.ipynb): Uses linear regression to model the relationship between environmental factors and wood decay.
+- [Gradient Descent](Supervised_Learning/gradient_descent/gradient_descent.ipynb): Demonstrates the use of gradient descent in optimizing logistic regression models.
 - Additional subdirectories will be added as the project expands to include unsupervised learning techniques and more complex models.
 
 Each subdirectory contains:
