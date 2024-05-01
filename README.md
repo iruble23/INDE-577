@@ -28,7 +28,7 @@ The repository is organized into the following sections, each containing subdire
 
 Each subdirectory contains:
 - A detailed Jupyter notebook with code, visualizations, and explanations.
-- A `README.md` file that discusses the specific machine learning algorithm, its application, and insights gained from the analysis.
+- A `README.md` file that discusses the specific machine learning algorithm, its application, and insights gained from the analysis (and a bonus fun fact about termites).
 
 
 ## Dataset Overview
@@ -66,3 +66,6 @@ Feel free to reach out with any questions or if you are interested in contributi
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
 Thank you for visiting this repository, and we hope you find the analyses informative and applicable to your work or research!
+
+## Termite Fun Fact
+**Global Impact of Termites:** Termites are estimated to affect more than 600,000 homes in the United States alone each year. Globally, their impact on economies and ecosystems is profound, as they not only cause property damage but also play a pivotal role in nutrient cycling and soil formation. This dual nature makes them a subject of interest not only for pest control but also for ecological studies, where they are often considered keystone species in many ecosystems.
