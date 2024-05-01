@@ -40,3 +40,6 @@ Future enhancements could include experimenting with different neural network ar
 
 ## Conclusion
 This notebook provides a foundational approach to using neural networks for predictive modeling in ecological research. It serves as a practical guide for understanding the steps involved in building, training, and evaluating neural networks with real-world data.
+
+## Termite Fun Fact
+**Pest Status:** Despite their ecological benefits, termites can be pests to human activities, causing billions of dollars in damage each year to buildings, crops, and forestry.

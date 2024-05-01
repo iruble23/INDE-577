@@ -36,3 +36,5 @@ To fully benefit from this notebook:
 ## Conclusion
 This notebook provides a comprehensive guide to applying DBSCAN for clustering termite data, showcasing the method's robustness and versatility in dealing with complex datasets. The insights gained can be instrumental in ecological studies and pest management strategies.
 
+## Termite Fun Fact
+**Survival Skills:** Termites have various survival strategies, including the ability to detect vibrations and emit warning signals to the colony, allowing them to react swiftly to potential threats or disturbances.

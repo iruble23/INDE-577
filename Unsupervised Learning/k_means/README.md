@@ -45,3 +45,5 @@ To utilize this notebook effectively:
 ## Conclusion
 This notebook provides a comprehensive guide to using k-means clustering for analyzing unlabelled data, demonstrating the algorithm's utility in uncovering hidden structures and patterns in complex datasets. Through this analysis, stakeholders can gain actionable insights into the data's characteristics and groupings.
 
+## Termite Fun Fact
+**Climate Control Experts:** The mounds that termites build are marvels of natural engineering, equipped with a ventilation system that maintains a remarkably stable internal temperature despite external environmental changes.

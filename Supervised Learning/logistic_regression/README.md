@@ -14,12 +14,9 @@ We use the `LogisticRegression` class from `sklearn.linear_model`. This model is
 - **Model Training and Prediction**: Train the model with training data and make predictions; assess probability outputs using the `predict_proba` method.
 - **Model Evaluation**: Evaluate the model's accuracy and interpret the confusion matrix to gauge performance.
 
-## Key Concepts
+## Conclusion
 - **Probability Estimation**: Logistic regression is particularly useful for scenarios where you want to estimate the likelihood of an event (e.g., termite discovery).
 - **Categorical Outcome Modeling**: This approach is well-suited for binary or categorical outcome variables.
 
-## How to Run
-Follow the instructions in the Jupyter notebook to run the logistic regression analysis from data preprocessing to model evaluation.
-
-## References
-- Scikit-learn Logistic Regression documentation: [Scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+## Termite Fun Fact
+**Global Dwellers:** Termites are found on every continent except Antarctica. Their diversity and abundance make them one of the most successful groups of insects on Earth.

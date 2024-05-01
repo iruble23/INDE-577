@@ -14,12 +14,9 @@ We use the `Perceptron` class from the `sklearn.linear_model` module. This class
 - **Training**: The model is trained on a subset of the data using the `fit` method, which takes the feature matrix and target vector as inputs.
 - **Prediction**: After training, predictions can be made on new data using the `predict` method.
 
-## Key Concepts
+## Conclusion
 - **Binary Classification**: The perceptron is used for binary classification tasks, predicting either the presence or absence of termites.
 - **Feature Importance**: Understanding which features strongly influence termite discovery can help in preventive measures.
 
-## How to Run
-Navigate to the notebook in this directory and execute the cells sequentially to observe how the perceptron model is implemented and evaluated.
-
-## References
-- Scikit-learn Perceptron documentation: [Scikit-learn Perceptron](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html)
+## Termite Fun Fact
+**Ecological Engineers:** Termites play a critical role in ecosystems as decomposers. They break down tough cellulose from dead wood and plants, recycling nutrients back into the soil, which helps foster plant growth.

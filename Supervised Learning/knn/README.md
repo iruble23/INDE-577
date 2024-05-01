@@ -61,9 +61,5 @@ Implementing KNN requires attention to several practical considerations:
 
 KNN is a robust algorithm capable of high performance in a wide range of settings. However, its effectiveness is contingent upon the quality of the data and the appropriateness of the parameters and distance metrics chosen. Users must consider these factors carefully to harness the full potential of KNN in practical applications.
 
-## References
-
-- [Your Citation of Relevant Literature]
-- [Links to Further Reading]
-
-This README is intended to provide a comprehensive understanding of KNN, suitable for both newcomers and experienced practitioners interested in implementing or studying this algorithm further.
+## Termite Fun Fact
+**Social Insects:** Like ants and bees, termites are social insects, living in highly organized colonies that can consist of millions of individuals, categorized into different castes based on roles such as workers, soldiers, and reproductive.

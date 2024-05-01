@@ -40,3 +40,6 @@ To use this notebook effectively:
 
 ## Conclusion
 This notebook provides a comprehensive guide on applying decision tree algorithms to real-world data, with detailed explanations of the steps involved in building, training, and evaluating decision trees, along with their practical implications and applications.
+
+## Termite Fun Fact
+**Architects of the Insect World:** Termites are renowned for their remarkable ability to build complex mounds that can reach up to 30 feet high, often exceeding the size of those built by any other insect.

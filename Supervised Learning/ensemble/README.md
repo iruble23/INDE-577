@@ -38,3 +38,6 @@ To make the most of this notebook:
 ## Conclusion
 This notebook serves as a comprehensive guide to understanding and applying ensemble methods to real-world data, demonstrating their potential to improve prediction accuracy and model robustness. By exploring both Random Forest and Gradient Boosting, we gain insights into different approaches to ensemble learning and their practical applications.
 
+
+## Termite Fun Fact
+**Ancient Insects:** Termites have been around since the time of the dinosaurs, with fossil records dating back to the Cretaceous period, over 100 million years ago.

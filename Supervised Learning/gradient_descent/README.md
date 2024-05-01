@@ -38,8 +38,5 @@ To replicate the analysis or adapt the notebooks to your dataset:
 
 This exploration of gradient descent provides an educational insight into its capabilities and limitations within the scope of logistic regression applied to termite discovery. It underscores the importance of choosing appropriate learning rates and the number of iterations to achieve effective model training.
 
-## Further Resources
-- [Scikit-learn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-- [Understanding Gradient Descent](https://www.britannica.com/technology/gradient-descent)
-
-For any further questions or discussions, please open an issue in this repository.
+## Termite Fun Fact
+**Superfood Finders:** Some termite species are known to cultivate specialized fungi within their colonies, which they feed on. This symbiotic relationship between termites and fungi is similar to human agriculture.
